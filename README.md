@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranavbabu
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning ruby and rails
+- 🌱 I’m currently learning elixir
 - 💞️ I’m looking to collaborate on open source
 
 <!---
