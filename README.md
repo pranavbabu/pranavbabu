@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @pranavbabu
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning elixir
-- 💞️ I’m looking to collaborate on open source
 
 <!---
 pranavbabu/pranavbabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
